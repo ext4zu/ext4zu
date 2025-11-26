@@ -1,5 +1,5 @@
 <div align="center">
-
+![stats](https://github-readme-stats.vercel.app/api?username=k44yn3&commits_year=2025)
 
 ```
                   
