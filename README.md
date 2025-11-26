@@ -1,6 +1,5 @@
 <div align="center">
 
-![k44yn3 GitHub stats](https://github-readme-stats.vercel.app/api?username=k44yn3&show_icons=true&theme=transparent)
 
 ```
                   
