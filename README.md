@@ -1,6 +1,6 @@
+[![stats](https://github-readme-stats.vercel.app/api?username=k44yn3)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 
-  [![stats](https://github-readme-stats.vercel.app/api?username=k44yn3&commits_year=2025)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ```
